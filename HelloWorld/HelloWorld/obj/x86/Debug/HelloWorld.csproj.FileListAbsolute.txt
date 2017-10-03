@@ -1,0 +1,6 @@
+C:\Users\Student\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Student\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Student\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Student\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
